@@ -1,4 +1,4 @@
-[ [English](profile\README.md) | [繁體中文](profile\README_zh.md) ]  
+[ [English](README.md) | [繁體中文](README_zh.md) ]  
 
 # 🌱 歡迎來到 **NLP-cabbage**！🥬  
 
